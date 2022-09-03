@@ -1,42 +1,18 @@
-# Olá, sou o Michel Ribeiro,
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257e5&height=120&section=header"/>
 
-Entusiasta das tecnologias de desenvolvimento web.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=8257e5&size=24&center=true&vCenter=true&width=1000&lines=Hi,+i'm++Michel+Santos!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Apaixonado por educação, músico, jogador...
-
-> "Nada neste mundo supera a boa e velha persistência. O talento não
-> supera. Nada mais comum do que fracassos talentosos. O gênio não
-> supera. Gênios não reconhecidos é praticamente um clichê. A educação
-> não supera. O mundo está cheio de tolos educados. Persistência e
-> determinação sozinhos são poderosos."
-
-- - 🔭 Atualmente estou trabalhando como dev junior na Americanas S.A
-- - 🌱 Estou aprendendo React, NodeJs e JavaScript
-
-
- <div>
-  <a href="https://github.com/MikeOfic">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mikeofic&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true "/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeofic&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MikeOfic&show_icons=true&count_private=true&hide_border=true&title_color=8257e5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOfic&layout=compact&hide_border=true&title_color=00bfbf&text_color=8257e5&bg_color=0d1117" />
 </div>
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mike-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mike-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/MikeOfic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mikeofic96" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:michel@studiom2d.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jean-santos-294638144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MikeOfic&theme=gotham&hide_border=true&area=true&count_private=true)
+
+<div align="center"> 
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257e5&height=120&section=footer"/>
